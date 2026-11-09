@@ -16,7 +16,7 @@ Je vais te transmettre progressivement les différentes phases de développement
 
 ## DOCUMENT DE RÉFÉRENCE
 
-Le fichier « spécifications_biolab_complètes.md » est le cahier des charges principal.
+Le fichier « specs.md » est le cahier des charges principal.
 
 Tu dois le considérer comme la référence du contenu et des règles du jeu.
 
