@@ -87,3 +87,4 @@ Ouvrez l'URL locale indiquée dans votre terminal (par défaut `http://localhost
 ## 📜 Historique des Versions
 
 Consultez [CHANGELOG.md](file:///home/antigravity/Rominouz/biolab-game/CHANGELOG.md) pour le détail complet des 7 phases de développement ayant mené à la version **v1.0.0**.
+"test"
